@@ -11,10 +11,12 @@
     ]
   },
   "dependencies": {
+    "learn": "^0.1.5",
     "mocha-multi": "^1.0.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4",
+    "submit": "^2.0.0",
     "webpack": "^3.11.0"
   },
   "scripts": {
@@ -30,8 +32,8 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "chai": "^4.1.2",
-    "enzyme": "^3.3.0",
-    "enzyme-adapter-react-16": "^1.1.1",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.13.0",
     "mocha": "^5.2.0",
     "sinon": "^6.1.0"
   }
